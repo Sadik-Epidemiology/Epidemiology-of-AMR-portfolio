@@ -1,5 +1,3 @@
-# Epidemiology-of-AMR-portfolio
-Epidemiology and public health data analysis portfolio focusing on AMR and biostatistics.
 # Epidemiology of AMR Portfolio
 
 This repository contains my data analysis projects in epidemiology, antimicrobial resistance (AMR), and public health.
@@ -16,4 +14,7 @@ This repository contains my data analysis projects in epidemiology, antimicrobia
 - Epidemiological methods (prevalence, regression, meta-analysis)
 
 ## Goal
-To demonstrate my ability to handle, analyze, and interpret real-world epidemiological datasets for research and public health applications.
+To demonstrate my ability to analyze, interpret, and visualize real-world epidemiological data, with a focus on antimicrobial resistance and public health research.
+
+## Projects
+Projects will be added here as I build my portfolio.
